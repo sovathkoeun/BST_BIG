@@ -1,0 +1,16 @@
+/* #timer,#dater,#message{
+    text-align: center;
+} */
+
+body{
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+h1{
+    font-size: 100px;
+    margin-top: 10%;
+}
+h2{
+    font-size: 70px;
+}
